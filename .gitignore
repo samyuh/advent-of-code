@@ -1,0 +1,4 @@
+.vscode/
+
+# Advent of Code Policy - don't include input.txt files
+*.txt
